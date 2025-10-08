@@ -1,0 +1,19 @@
+# Fedora i3wm Dotfiles
+
+- basic i3wm config for vim
+- hidpi -- using ~/.setdpi to manage laptop(dpi=160) vs docked(dpi=96) dpi modes
+- picom
+- kitty terminal with unpatched JetBrains Mono from Fedora and built in Nerd Font Glyphs
+  - oh-my-zsh, starship, LazyVim
+- yazi
+- autorandr set to turn on/off display (does not change dpi have to use setdpi script)
+- ytdlp -- set inside of ~/bin
+- qutebrowser for opening markdown files and rendering latex
+- esp-idf
+
+## Testing / School Specific
+
+- eclipse
+  - install flatseal: GDK_SCALE=2 GDK_DPI_SCALE=0.5
+- rars
+  - using a custom script from ChatGPT to help with antialiasing

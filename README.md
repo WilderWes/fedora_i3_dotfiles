@@ -7,7 +7,6 @@
   - oh-my-zsh, starship, LazyVim
 - yazi
 - autorandr set to turn on/off display (does not change dpi have to use setdpi script)
-- ytdlp -- set inside of ~/bin
 - qutebrowser for opening markdown files and rendering latex
 - esp-idf
 
@@ -16,6 +15,7 @@
 - Transcribe!
 - Download TrueFire appimage, you can download videos locally and play through DAW or other medium
   - appimage requires fuse-libs
+- ytdlp
 
 ## Testing / School Specific
 

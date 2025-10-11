@@ -11,6 +11,12 @@
 - qutebrowser for opening markdown files and rendering latex
 - esp-idf
 
+## Guitar Specific
+
+- Transcribe!
+- Download TrueFire appimage, you can download videos locally and play through DAW or other medium
+  - appimage requires fuse-libs
+
 ## Testing / School Specific
 
 - eclipse

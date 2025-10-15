@@ -38,7 +38,7 @@ export PATH
 # Aliases
 # ------------------------------------------------------------
 alias get_idf='. $HOME/esp/esp-idf/export.sh'
-alias ls='eza -al --color=always --group-directories-first --icons'
+alias ls='eza -l --color=always --group-directories-first --icons'
 alias fastfetch="fastfetch --config examples/8.jsonc"
 alias update-grub="sudo grub2-mkconfig -o /etc/grub2.cfg"
 

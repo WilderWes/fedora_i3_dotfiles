@@ -36,7 +36,7 @@ set $menu $rofi_cmd -show combi -combi-modes drun#run -modes combi -theme /usr/s
 output * bg /home/wpreising/Dropbox/wp_personal/nightmode_wallpaper.png fill
 #
 # Example configuration:
-output eDP-1 resolution 2880x1800@120.000Hz
+output eDP-1 resolution 2880x1800@120.000Hz scale 1.66667
 output DP-1 resolution 2560x1440@165.080Hz
 
 # inhibit idle in fullscreen
